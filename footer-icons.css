@@ -1,0 +1,114 @@
+@keyframes slide-in-left {
+  0% {
+    transform: translateX(-200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+.group-icon4,
+.vector-icon5,
+.vector-icon6,
+.vector-icon7 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon4 {
+  height: 68.25%;
+  width: 19.36%;
+  top: 25.58%;
+  right: -32.26%;
+  bottom: 6.18%;
+  left: 112.9%;
+  display: none;
+}
+.vector-icon5,
+.vector-icon6,
+.vector-icon7 {
+  left: 0;
+}
+.vector-icon5 {
+  height: 76.72%;
+  width: 7.53%;
+  top: 21.31%;
+  right: 92.47%;
+  bottom: 1.97%;
+  cursor: pointer;
+}
+.vector-icon6,
+.vector-icon7 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+.vector-icon7 {
+  height: 33.3%;
+  width: 33.36%;
+  top: 33.23%;
+  right: 33.36%;
+  bottom: 33.47%;
+  left: 33.28%;
+}
+.group-a3 {
+  text-decoration: none;
+  position: absolute;
+  height: 76.89%;
+  width: 14.52%;
+  top: 21.31%;
+  right: 64.51%;
+  bottom: 1.79%;
+  left: 20.97%;
+  cursor: pointer;
+}
+.vector-icon8,
+.vector-icon9 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon8 {
+  height: 78.69%;
+  width: 18.31%;
+  top: 21.31%;
+  right: 33.3%;
+  bottom: 0;
+  left: 48.39%;
+  cursor: pointer;
+}
+.vector-icon9 {
+  height: 98.05%;
+  width: 20.16%;
+  top: 0;
+  right: 0;
+  bottom: 1.95%;
+  left: 79.84%;
+}
+.footer-icons-div1 {
+  position: absolute;
+  height: 100%;
+  width: 75.61%;
+  top: 0;
+  right: 24.39%;
+  bottom: 0;
+  left: 0;
+}
+.footer-icons-div {
+  position: relative;
+  width: 100%;
+  height: 18px;
+  opacity: 0;
+}
+.footer-icons-div.animate {
+  animation: 0.25s ease 0s 1 normal forwards slide-in-left;
+}

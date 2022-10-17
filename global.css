@@ -1,0 +1,64 @@
+:root {
+  /* fonts */
+  --font-public-sans: "Public Sans";
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-7xs: 10px;
+  --font-size-6xs: 11px;
+  --font-size-5xs: 12px;
+  --font-size-4xs: 13px;
+  --font-size-3xs: 14px;
+  --font-size-2xs: 15px;
+  --font-size-xs: 16px;
+  --font-size-sm: 19px;
+  --font-size-base: 20px;
+  --font-size-lg: 22px;
+  --font-size-xl: 24px;
+  --font-size-2xl: 26px;
+  --font-size-3xl: 32px;
+  --font-size-4xl: 34px;
+  --font-size-5xl: 37px;
+  --font-size-6xl: 40px;
+  --font-size-7xl: 50px;
+  --font-size-8xl: 55px;
+  --font-size-9xl: 56px;
+  --font-size-10xl: 67px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #fff3f0;
+  --color-gray-200: #f2f2f2;
+  --color-gray-300: #949494;
+  --color-gray-400: #8f8f8f;
+  --color-gray-500: #787878;
+  --color-gray-600: #393939;
+  --color-gray-700: #353535;
+  --color-gray-800: #1e1e1e;
+  --color-gray-900: rgba(0, 0, 0, 0.42);
+  --color-gray-1000: rgba(255, 255, 255, 0);
+  --color-gray-1100: rgba(255, 255, 255, 0.56);
+  --color-red-100: #fd5a2f;
+  --color-red-200: rgba(253, 90, 47, 0.36);
+  --color-red-300: rgba(253, 90, 47, 0.33);
+  --color-blue: #2f2fff;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-sm: 11px;
+  --gap-md: 60px;
+
+  /* Paddings */
+  --padding-sm: 11px;
+  --padding-md: 16px;
+
+  /* border radiuses */
+  --br-3xs: 4px;
+  --br-2xs: 7px;
+  --br-xs: 8px;
+  --br-sm: 9px;
+  --br-md: 12px;
+  --br-lg: 50px;
+  --br-xl: 52px;
+  --br-2xl: 62px;
+}

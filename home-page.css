@@ -1,0 +1,209 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.rectangle-div84 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 18px 27px rgba(0, 0, 0, 0.1);
+  width: 414px;
+  height: 128px;
+}
+.icon8 {
+  position: absolute;
+  top: 64px;
+  left: 28px;
+  width: 84px;
+  height: 34px;
+  object-fit: cover;
+}
+.dashiconsmenu-alt37,
+.sf-icon {
+  position: absolute;
+  overflow: hidden;
+}
+.sf-icon {
+  height: 0.61%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 99.39%;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.dashiconsmenu-alt37 {
+  top: 71px;
+  left: 367px;
+  width: 20px;
+  height: 20px;
+}
+.frame-18-3-icon {
+  position: absolute;
+  top: 533px;
+  left: 26px;
+  border-radius: var(--br-sm);
+  width: 363px;
+  height: 363px;
+  object-fit: cover;
+}
+.ellipse-icon56,
+.icon9 {
+  position: absolute;
+  top: 267px;
+  left: 374px;
+  width: 202.77px;
+  height: 202.77px;
+}
+.icon9 {
+  height: 5.14%;
+  width: 21.01%;
+  top: 18.06%;
+  right: 39.61%;
+  bottom: 76.8%;
+  left: 39.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.connecting-individuals-with-th15 {
+  position: absolute;
+  top: 164px;
+  left: 30px;
+  line-height: 19px;
+  font-weight: 500;
+  display: inline-block;
+  width: 354px;
+}
+.line-div14 {
+  position: absolute;
+  top: 393.5px;
+  left: -0.5px;
+  border-top: 1px solid rgba(255, 255, 255, 0.36);
+  box-sizing: border-box;
+  width: 414px;
+  height: 1px;
+}
+.become-a-sponsor-our-agenda,
+.connect-with-us14,
+.tekart-conference-2022-ikeja14 {
+  position: absolute;
+  top: 239px;
+  left: 86px;
+  font-weight: 500;
+  display: inline-block;
+  width: 242px;
+  height: 21px;
+}
+.become-a-sponsor-our-agenda,
+.connect-with-us14 {
+  top: 292px;
+  left: 49px;
+  line-height: 25px;
+  width: 317px;
+  height: 46px;
+}
+.connect-with-us14 {
+  top: 414px;
+  left: 149px;
+  line-height: 13px;
+  width: 116px;
+  height: 9px;
+}
+.footer-icons {
+  position: absolute;
+  height: 1.74%;
+  width: 26.6%;
+  top: 64.9%;
+  right: 36.68%;
+  bottom: 33.35%;
+  left: 36.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ellipse-icon57,
+.footer-div14 {
+  position: absolute;
+  top: 495px;
+  left: 0;
+  width: 202.77px;
+  height: 202.77px;
+}
+.footer-div14 {
+  top: 1041px;
+  background-color: var(--color-blue);
+  width: 414px;
+  height: 681px;
+  text-align: center;
+}
+.dwaeloe-div8,
+.lorem-ipsum-dolor-sit-amet-co10 {
+  position: absolute;
+  left: 28px;
+  font-weight: 500;
+  display: inline-block;
+}
+.dwaeloe-div8 {
+  top: 189px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-600);
+  -webkit-text-stroke: 0.3px #393939;
+}
+.lorem-ipsum-dolor-sit-amet-co10 {
+  top: 227px;
+  font-size: var(--font-size-3xs);
+  line-height: 21px;
+  color: var(--color-gray-500);
+  text-align: justify;
+  width: 359px;
+  height: 234px;
+}
+.footer-icons1 {
+  position: absolute;
+  top: 472px;
+  left: 28px;
+  width: 139px;
+  height: 20px;
+}
+.speaker-div5 {
+  position: absolute;
+  top: 167px;
+  left: 28px;
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-red-100);
+  display: inline-block;
+  width: 214px;
+}
+.rectangle-icon28 {
+  position: absolute;
+  top: 154px;
+  left: 252px;
+  width: 25px;
+  height: 46px;
+  object-fit: cover;
+}
+.home-page-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1722px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-4xs);
+  color: var(--color-white);
+  font-family: var(--font-public-sans);
+}

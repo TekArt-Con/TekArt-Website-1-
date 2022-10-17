@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.frame-div5 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 8052px;
+  overflow: hidden;
+}

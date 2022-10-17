@@ -1,0 +1,212 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.rectangle-icon29 {
+  position: absolute;
+  top: 36px;
+  left: 28px;
+  width: 250px;
+  height: 55px;
+  object-fit: cover;
+}
+.home-div,
+.merch-b {
+  position: relative;
+  display: inline-block;
+}
+.home-div {
+  font-weight: 500;
+}
+.merch-b {
+  color: var(--color-red-100);
+}
+.frame-div33 {
+  position: absolute;
+  top: 53px;
+  left: 506px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+  text-align: center;
+  color: var(--color-gray-900);
+  font-family: var(--font-poppins);
+}
+.continue-div11 {
+  position: relative;
+  line-height: 120%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-div34 {
+  position: absolute;
+  top: 40px;
+  left: 1135px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-red-100);
+  width: 204px;
+  height: 51px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: var(--font-size-2xs);
+  color: var(--color-white);
+}
+.become-a-sponsor-our-agenda1,
+.connect-with-us15,
+.connecting-individuals-with-th16,
+.tekart-conference-2022-ikeja15 {
+  position: absolute;
+  top: 110px;
+  left: 299px;
+  line-height: 30px;
+  font-weight: 500;
+  display: inline-block;
+  width: 841px;
+  height: 35px;
+}
+.become-a-sponsor-our-agenda1,
+.connect-with-us15,
+.connecting-individuals-with-th16 {
+  top: 145px;
+  left: 249px;
+  width: 941px;
+}
+.become-a-sponsor-our-agenda1,
+.connect-with-us15 {
+  top: 263px;
+  left: 278px;
+  width: 879px;
+  height: 49px;
+}
+.connect-with-us15 {
+  top: 366px;
+  left: 587px;
+  width: 265px;
+  height: 29px;
+}
+.footer-icons2 {
+  position: absolute;
+  height: 6.65%;
+  width: 16.94%;
+  top: 78.86%;
+  right: 41.53%;
+  bottom: 14.5%;
+  left: 41.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.subtract-icon15 {
+  position: relative;
+  width: 286.36px;
+  height: 63px;
+}
+.ellipse-icon58 {
+  position: absolute;
+  top: 258px;
+  left: 0;
+  width: 325px;
+  height: 325px;
+}
+.ellipse-icon59,
+.line-div15 {
+  position: absolute;
+  top: 0;
+  left: 1339px;
+  width: 275px;
+  height: 275px;
+}
+.line-div15 {
+  top: 333px;
+  left: 101.95px;
+  border-top: 2px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 1238.1px;
+  height: 2px;
+}
+.footer-div15,
+.frame-icon149 {
+  position: absolute;
+  left: 0;
+  overflow: hidden;
+}
+.footer-div15 {
+  top: 3623px;
+  background-color: var(--color-blue);
+  width: 1440px;
+  height: 525px;
+  text-align: center;
+  color: var(--color-white);
+}
+.frame-icon149 {
+  top: 0;
+  border-radius: var(--br-lg);
+  width: 368px;
+  height: 384px;
+}
+.community-influencer-div122,
+.david-iyenyorochi-obi124 {
+  position: absolute;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.community-influencer-div122 {
+  top: 450px;
+  width: 289px;
+  height: 23px;
+}
+.david-iyenyorochi-obi124 {
+  top: 409px;
+  font-size: var(--font-size-4xl);
+  color: var(--color-gray-600);
+  -webkit-text-stroke: 0.3px #393939;
+}
+.speaker-1-div6,
+.speaker-3-div6,
+.speaker-4-div6,
+.speaker-5-div6 {
+  position: absolute;
+  top: 711px;
+  left: 1634px;
+  width: 368px;
+  height: 473px;
+}
+.speaker-3-div6,
+.speaker-4-div6,
+.speaker-5-div6 {
+  top: 1226px;
+}
+.speaker-3-div6,
+.speaker-5-div6 {
+  left: 2068px;
+}
+.speaker-3-div6 {
+  top: 711px;
+  left: 2502px;
+}
+.merch-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4148px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-500);
+  font-family: var(--font-public-sans);
+}
