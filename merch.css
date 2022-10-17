@@ -11,7 +11,7 @@ body {
   bottom: 0;
   right: 0;
 }
-.rectangle-icon29 {
+.rectangle-icon30 {
   position: absolute;
   top: 36px;
   left: 28px;
@@ -115,14 +115,14 @@ body {
   width: 286.36px;
   height: 63px;
 }
-.ellipse-icon58 {
+.ellipse-icon61 {
   position: absolute;
   top: 258px;
   left: 0;
   width: 325px;
   height: 325px;
 }
-.ellipse-icon59,
+.ellipse-icon62,
 .line-div15 {
   position: absolute;
   top: 0;
@@ -139,7 +139,7 @@ body {
   height: 2px;
 }
 .footer-div15,
-.frame-icon149 {
+.frame-icon147 {
   position: absolute;
   left: 0;
   overflow: hidden;
@@ -152,25 +152,25 @@ body {
   text-align: center;
   color: var(--color-white);
 }
-.frame-icon149 {
+.frame-icon147 {
   top: 0;
   border-radius: var(--br-lg);
   width: 368px;
   height: 384px;
 }
-.community-influencer-div122,
-.david-iyenyorochi-obi124 {
+.community-influencer-div121,
+.david-iyenyorochi-obi123 {
   position: absolute;
   left: 0;
   font-weight: 500;
   display: inline-block;
 }
-.community-influencer-div122 {
+.community-influencer-div121 {
   top: 450px;
   width: 289px;
   height: 23px;
 }
-.david-iyenyorochi-obi124 {
+.david-iyenyorochi-obi123 {
   top: 409px;
   font-size: var(--font-size-4xl);
   color: var(--color-gray-600);

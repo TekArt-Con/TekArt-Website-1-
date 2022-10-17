@@ -32,7 +32,7 @@ body {
   height: 35px;
   -webkit-text-stroke: 1px #000;
 }
-.frame-icon128 {
+.frame-icon126 {
   position: absolute;
   top: 205px;
   left: 763px;
@@ -41,8 +41,8 @@ body {
   height: 631px;
   overflow: hidden;
 }
-.rectangle-icon26,
-.rectangle-icon27 {
+.rectangle-icon27,
+.rectangle-icon28 {
   position: absolute;
   top: 161px;
   left: 647px;
@@ -50,7 +50,7 @@ body {
   height: 114px;
   object-fit: cover;
 }
-.rectangle-icon27 {
+.rectangle-icon28 {
   top: 36px;
   left: 28px;
   width: 250px;
@@ -202,21 +202,21 @@ body {
   left: 0;
 }
 .footer-icons-div14,
-.rectangle-div83 {
+.rectangle-div82 {
   position: absolute;
   top: 690px;
   left: 91px;
   width: 244px;
   height: 34.9px;
 }
-.rectangle-div83 {
+.rectangle-div82 {
   top: 0;
   left: 0;
   background-color: var(--color-red-100);
   width: 1440px;
   height: 522px;
 }
-.ellipse-icon50 {
+.ellipse-icon53 {
   position: absolute;
   top: 0;
   left: 1171px;
@@ -234,7 +234,7 @@ body {
   height: 75px;
   -webkit-text-stroke: 1px #fff;
 }
-.frame-icon129,
+.frame-icon127,
 .section-3-div6 {
   position: absolute;
   overflow: hidden;
@@ -248,26 +248,26 @@ body {
   font-size: var(--font-size-10xl);
   color: var(--color-white);
 }
-.frame-icon129 {
+.frame-icon127 {
   top: 0;
   left: 0;
   border-radius: var(--br-lg);
   width: 368px;
   height: 384px;
 }
-.community-influencer-div105,
-.david-iyenyorochi-obi107 {
+.community-influencer-div104,
+.david-iyenyorochi-obi106 {
   position: absolute;
   left: 0;
   font-weight: 500;
   display: inline-block;
 }
-.community-influencer-div105 {
+.community-influencer-div104 {
   top: 450px;
   width: 289px;
   height: 23px;
 }
-.david-iyenyorochi-obi107 {
+.david-iyenyorochi-obi106 {
   top: 409px;
   font-size: var(--font-size-4xl);
   color: var(--color-gray-600);
@@ -315,7 +315,7 @@ body {
   top: 4189px;
   left: -221px;
 }
-.ellipse-icon51 {
+.ellipse-icon54 {
   position: absolute;
   top: 258px;
   left: 80px;
@@ -349,7 +349,7 @@ body {
 }
 .our-agenda13,
 .register-a13,
-.speakers20 {
+.speakers19 {
   text-decoration: none;
   color: inherit;
   display: none;
@@ -365,10 +365,10 @@ body {
   cursor: pointer;
 }
 .register-a13,
-.speakers20 {
+.speakers19 {
   top: 263px;
 }
-.speakers20 {
+.speakers19 {
   position: absolute;
   left: 797px;
   line-height: 30px;
@@ -477,7 +477,7 @@ body {
   width: 286.36px;
   height: 63px;
 }
-.ellipse-icon52,
+.ellipse-icon55,
 .footer-div13 {
   position: absolute;
   top: 0;
@@ -497,7 +497,7 @@ body {
 }
 .home-a6,
 .merch-a6,
-.speakers21 {
+.speakers20 {
   text-decoration: none;
   position: relative;
   display: inline-block;
@@ -508,12 +508,12 @@ body {
   color: inherit;
 }
 .merch-a6,
-.speakers21 {
+.speakers20 {
   font-weight: 700;
   color: var(--color-red-100);
 }
 .merch-a6:hover,
-.speakers21:hover {
+.speakers20:hover {
   color: var(--color-red-100);
   animation: 0.3s ease 0s 1 normal none scale-up;
   opacity: 1;
@@ -538,7 +538,7 @@ body {
   text-align: center;
   color: var(--color-gray-300);
 }
-.frame-icon133 {
+.frame-icon131 {
   position: relative;
   border-radius: var(--br-lg);
   width: 368px;
@@ -546,13 +546,13 @@ body {
   flex-shrink: 0;
   overflow: hidden;
 }
-.david-iyenyorochi-obi108 {
+.david-iyenyorochi-obi107 {
   position: relative;
   font-weight: 500;
   display: inline-block;
   -webkit-text-stroke: 0.3px #393939;
 }
-.community-influencer-div106 {
+.community-influencer-div105 {
   position: relative;
   font-size: var(--font-size-base);
   font-weight: 500;
@@ -583,25 +583,24 @@ body {
 .frame-button86:hover,
 .frame-button87:hover,
 .frame-button88:hover,
-.frame-button89:hover,
-.frame-button91:hover {
+.frame-button89:hover {
   animation: 1s ease 0s 1 normal none scale-up;
   opacity: 1;
 }
-.community-influencer-div107,
-.david-iyenyorochi-obi109 {
+.community-influencer-div106,
+.david-iyenyorochi-obi108 {
   position: relative;
   font-weight: 500;
   font-family: var(--font-public-sans);
   text-align: left;
   display: inline-block;
 }
-.david-iyenyorochi-obi109 {
+.david-iyenyorochi-obi108 {
   font-size: var(--font-size-4xl);
   color: var(--color-gray-600);
   -webkit-text-stroke: 0.3px #393939;
 }
-.community-influencer-div107 {
+.community-influencer-div106 {
   font-size: var(--font-size-base);
   color: var(--color-gray-500);
   width: 289px;
@@ -636,7 +635,7 @@ body {
   top: 2961px;
   left: 772px;
 }
-.frame-icon137 {
+.frame-icon135 {
   position: absolute;
   top: 3483px;
   left: 0;
@@ -668,7 +667,12 @@ body {
 .frame-button85,
 .frame-button86,
 .frame-button87,
-.frame-button88 {
+.frame-button88,
+.frame-button89,
+.frame-button90,
+.frame-button91,
+.frame-button92,
+.frame-button93 {
   background-color: var(--color-white);
   position: absolute;
   border-radius: var(--br-xl);
@@ -686,7 +690,12 @@ body {
 }
 .frame-button86,
 .frame-button87,
-.frame-button88 {
+.frame-button88,
+.frame-button89,
+.frame-button90,
+.frame-button91,
+.frame-button92,
+.frame-button93 {
   cursor: pointer;
   border: 0;
   padding: 0;
@@ -694,106 +703,60 @@ body {
   left: 2px;
 }
 .frame-button87,
-.frame-button88 {
+.frame-button88,
+.frame-button89,
+.frame-button90,
+.frame-button91,
+.frame-button92,
+.frame-button93 {
   top: 1060px;
   left: 0;
 }
-.frame-button88 {
+.frame-button88,
+.frame-button89,
+.frame-button90,
+.frame-button91,
+.frame-button92,
+.frame-button93 {
   top: 0;
   left: 385px;
 }
-.ellipse-icon53 {
-  position: absolute;
-  top: 466px;
-  left: 210px;
-  width: 317px;
-  height: 317px;
-}
-.a2-icon3,
-.ellipse-icon54,
-.ellipse-icon55 {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 317px;
-  height: 297px;
-}
-.a2-icon3,
-.ellipse-icon55 {
-  top: 207px;
-}
-.a2-icon3 {
-  top: 0;
-  width: 748px;
-  height: 748px;
-  object-fit: cover;
-}
-.frame-button90 {
-  cursor: pointer;
-  border: 0;
-  padding: 0;
-  background-color: var(--color-red-100);
-  position: relative;
-  border-radius: var(--br-lg);
-  width: 368px;
-  height: 384px;
-  flex-shrink: 0;
-  overflow: hidden;
-}
 .frame-button89,
+.frame-button90,
 .frame-button91,
 .frame-button92,
-.frame-button93,
-.frame-button94,
-.frame-button95 {
-  cursor: pointer;
-  border: 0;
-  padding: 0;
-  background-color: var(--color-white);
-  position: absolute;
+.frame-button93 {
   top: 533px;
-  left: 394px;
-  border-radius: var(--br-xl);
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-start;
-  gap: var(--gap-sm);
-}
-.frame-button91,
-.frame-button92,
-.frame-button93,
-.frame-button94,
-.frame-button95 {
   left: 774px;
 }
+.frame-button90,
+.frame-button91,
 .frame-button92,
-.frame-button93,
-.frame-button94,
-.frame-button95 {
+.frame-button93 {
   top: 18px;
 }
-.frame-button92:hover {
+.frame-button90:hover {
   animation: 1s ease 0s infinite normal none scale-up;
   opacity: 1;
 }
-.frame-button93,
-.frame-button94,
-.frame-button95 {
+.frame-button91,
+.frame-button92,
+.frame-button93 {
   top: 1051px;
 }
+.frame-button91:hover,
+.frame-button92:hover,
 .frame-button93:hover,
-.frame-button94:hover,
-.frame-button95:hover {
+.frame-button94:hover {
   animation: 1s ease 0s 1 normal none scale-up;
   opacity: 1;
 }
-.frame-button94,
-.frame-button95 {
+.frame-button92,
+.frame-button93 {
   top: 18px;
   left: 5px;
 }
-.frame-button95 {
+.frame-button93 {
   top: 1048px;
   left: 394px;
 }
@@ -806,9 +769,64 @@ body {
   font-size: var(--font-size-4xl);
   color: var(--color-gray-600);
 }
-.futurist-div1 {
+.ellipse-icon56 {
+  position: absolute;
+  top: 466px;
+  left: 210px;
+  width: 317px;
+  height: 317px;
+}
+.a2-icon4,
+.ellipse-icon57,
+.ellipse-icon58 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 317px;
+  height: 297px;
+}
+.a2-icon4,
+.ellipse-icon58 {
+  top: 207px;
+}
+.a2-icon4 {
+  top: 0;
+  width: 748px;
+  height: 748px;
+  object-fit: cover;
+}
+.frame-button95 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-red-100);
   position: relative;
+  border-radius: var(--br-lg);
+  width: 368px;
+  height: 384px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.frame-button94,
+.futurist-div {
   background-color: var(--color-white);
+}
+.frame-button94 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+  top: 1898px;
+  left: 457px;
+  border-radius: var(--br-xl);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.futurist-div {
+  position: relative;
   width: 100%;
   height: 6041px;
   overflow: hidden;
@@ -818,7 +836,7 @@ body {
   font-family: var(--font-public-sans);
 }
 @media screen and (max-width: 1200px) {
-  .frame-button94:hover {
+  .frame-button92:hover {
     animation: 1s ease 0s infinite normal none scale-up;
     opacity: 1;
   }

@@ -2,7 +2,7 @@ body {
   margin: 0;
   line-height: normal;
 }
-.rectangle-icon7 {
+.rectangle-icon8 {
   position: absolute;
   top: 0;
   left: 0;
@@ -10,20 +10,20 @@ body {
   width: 349px;
   height: 349px;
 }
-.a2-icon1,
-.ellipse-icon18,
-.ellipse-icon19 {
+.a2-icon,
+.ellipse-icon15,
+.ellipse-icon16 {
   position: absolute;
   top: 0;
   left: 0;
   width: 317px;
   height: 317px;
 }
-.a2-icon1,
-.ellipse-icon19 {
+.a2-icon,
+.ellipse-icon16 {
   top: 200px;
 }
-.a2-icon1 {
+.a2-icon {
   top: 0;
   width: 748px;
   height: 748px;

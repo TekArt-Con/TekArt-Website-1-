@@ -95,7 +95,7 @@ body {
   display: inline-block;
   width: 214px;
 }
-.rectangle-icon10 {
+.rectangle-icon11 {
   position: absolute;
   top: 154px;
   left: 222px;
@@ -124,7 +124,7 @@ body {
   height: 20px;
   overflow: hidden;
 }
-.ellipse-icon22 {
+.ellipse-icon19 {
   position: absolute;
   top: 258px;
   left: -149px;
@@ -417,7 +417,7 @@ body {
   color: var(--color-gray-600);
   font-family: var(--font-public-sans);
 }
-.rectangle-div29 {
+.rectangle-div28 {
   position: absolute;
   top: 0;
   left: 0;
@@ -462,7 +462,7 @@ body {
   text-align: center;
   display: inline-block;
 }
-.frame-button17 {
+.frame-button16 {
   cursor: pointer;
   border: 0;
   padding: 0;

@@ -19,7 +19,7 @@ body {
   bottom: 0;
   right: 0;
 }
-.rectangle-icon17 {
+.rectangle-icon18 {
   position: absolute;
   top: 36px;
   left: 28px;
@@ -37,7 +37,7 @@ body {
   text-align: center;
   display: inline-block;
 }
-.frame-button21 {
+.frame-button20 {
   cursor: pointer;
   border: 0;
   padding: 0;
@@ -53,7 +53,7 @@ body {
   align-items: center;
   justify-content: center;
 }
-.frame-icon21 {
+.frame-icon22 {
   position: absolute;
   top: 0;
   left: 0;
@@ -113,7 +113,7 @@ body {
 }
 .hosts-div3,
 .panelist-giomo-div3,
-.speakers-div3 {
+.speakers-div2 {
   position: absolute;
   top: 266px;
   left: 451px;
@@ -140,7 +140,7 @@ body {
   top: 3309px;
   left: -198px;
 }
-.frame-icon25 {
+.frame-icon26 {
   position: relative;
   border-radius: var(--br-lg);
   width: 368px;
@@ -180,13 +180,13 @@ body {
 }
 .frame-a2:hover,
 .frame-a3:hover,
+.frame-button21:hover,
 .frame-button22:hover,
 .frame-button23:hover,
 .frame-button24:hover,
 .frame-button25:hover,
 .frame-button26:hover,
-.frame-button27:hover,
-.frame-button29:hover {
+.frame-button28:hover {
   animation: 1s ease 0s 1 normal none scale-up;
   opacity: 1;
 }
@@ -210,7 +210,7 @@ body {
   height: 23px;
   flex-shrink: 0;
 }
-.frame-button22,
+.frame-button21,
 .frame-div7,
 .frame-div8 {
   position: absolute;
@@ -222,7 +222,7 @@ body {
   justify-content: flex-start;
   gap: var(--gap-sm);
 }
-.frame-button22 {
+.frame-button21 {
   cursor: pointer;
   border: 0;
   padding: 0;
@@ -238,7 +238,7 @@ body {
   top: 2943px;
   left: 772px;
 }
-.frame-icon29 {
+.frame-icon30 {
   position: absolute;
   top: 3465px;
   left: 0;
@@ -259,7 +259,7 @@ body {
   justify-content: flex-start;
   gap: var(--gap-sm);
 }
-.frame-button23 {
+.frame-button22 {
   cursor: pointer;
   border: 0;
   padding: 0;
@@ -267,10 +267,10 @@ body {
   left: 394px;
 }
 .frame-a3,
+.frame-button22,
 .frame-button23,
 .frame-button24,
-.frame-button25,
-.frame-button26 {
+.frame-button25 {
   background-color: var(--color-white);
   position: absolute;
   border-radius: var(--br-xl);
@@ -286,50 +286,50 @@ body {
   left: 774px;
   color: inherit;
 }
+.frame-button23,
 .frame-button24,
-.frame-button25,
-.frame-button26 {
+.frame-button25 {
   cursor: pointer;
   border: 0;
   padding: 0;
   top: 2952px;
   left: 2px;
 }
-.frame-button25,
-.frame-button26 {
+.frame-button24,
+.frame-button25 {
   top: 1042px;
   left: 0;
 }
-.frame-button26 {
+.frame-button25 {
   top: 1545px;
 }
-.ellipse-icon27 {
+.ellipse-icon24 {
   position: absolute;
   top: 466px;
   left: 210px;
   width: 317px;
   height: 317px;
 }
-.a2-icon2,
-.ellipse-icon28,
-.ellipse-icon29 {
+.a2-icon1,
+.ellipse-icon25,
+.ellipse-icon26 {
   position: absolute;
   top: 0;
   left: 0;
   width: 317px;
   height: 297px;
 }
-.a2-icon2,
-.ellipse-icon29 {
+.a2-icon1,
+.ellipse-icon26 {
   top: 207px;
 }
-.a2-icon2 {
+.a2-icon1 {
   top: 0;
   width: 748px;
   height: 748px;
   object-fit: cover;
 }
-.frame-button28 {
+.frame-button27 {
   cursor: pointer;
   border: 0;
   padding: 0;
@@ -341,13 +341,13 @@ body {
   flex-shrink: 0;
   overflow: hidden;
 }
-.frame-button27,
+.frame-button26,
+.frame-button28,
 .frame-button29,
 .frame-button30,
 .frame-button31,
 .frame-button32,
-.frame-button33,
-.frame-button34 {
+.frame-button33 {
   cursor: pointer;
   border: 0;
   padding: 0;
@@ -362,49 +362,49 @@ body {
   justify-content: flex-start;
   gap: var(--gap-sm);
 }
+.frame-button28,
 .frame-button29,
 .frame-button30,
 .frame-button31,
 .frame-button32,
-.frame-button33,
-.frame-button34 {
+.frame-button33 {
   left: 774px;
+}
+.frame-button29,
+.frame-button30,
+.frame-button31,
+.frame-button32,
+.frame-button33 {
+  top: 0;
+}
+.frame-button29:hover {
+  animation: 1s ease 0s infinite normal none scale-up;
+  opacity: 1;
 }
 .frame-button30,
 .frame-button31,
 .frame-button32,
-.frame-button33,
-.frame-button34 {
-  top: 0;
+.frame-button33 {
+  top: 1033px;
 }
-.frame-button30:hover {
-  animation: 1s ease 0s infinite normal none scale-up;
+.frame-button30:hover,
+.frame-button31:hover,
+.frame-button32:hover,
+.frame-button33:hover {
+  animation: 1s ease 0s 1 normal none scale-up;
   opacity: 1;
 }
 .frame-button31,
 .frame-button32,
-.frame-button33,
-.frame-button34 {
-  top: 1033px;
-}
-.frame-button31:hover,
-.frame-button32:hover,
-.frame-button33:hover,
-.frame-button34:hover {
-  animation: 1s ease 0s 1 normal none scale-up;
-  opacity: 1;
-}
-.frame-button32,
-.frame-button33,
-.frame-button34 {
+.frame-button33 {
   top: 0;
   left: 394px;
 }
-.frame-button33,
-.frame-button34 {
+.frame-button32,
+.frame-button33 {
   left: 5px;
 }
-.frame-button34 {
+.frame-button33 {
   top: 1030px;
   left: 394px;
 }
@@ -417,7 +417,7 @@ body {
   font-size: var(--font-size-4xl);
   color: var(--color-gray-600);
 }
-.ellipse-icon30 {
+.ellipse-icon27 {
   position: absolute;
   top: 258px;
   left: 94px;
@@ -451,7 +451,7 @@ body {
 }
 .our-agenda8,
 .register-a8,
-.speakers10 {
+.speakers9 {
   text-decoration: none;
   color: inherit;
   display: none;
@@ -467,10 +467,10 @@ body {
   cursor: pointer;
 }
 .register-a8,
-.speakers10 {
+.speakers9 {
   top: 263px;
 }
-.speakers10 {
+.speakers9 {
   position: absolute;
   left: 797px;
   line-height: 30px;
@@ -601,7 +601,7 @@ body {
   width: 286.36px;
   height: 63px;
 }
-.ellipse-icon31,
+.ellipse-icon28,
 .footer-div8 {
   position: absolute;
   top: 0;
@@ -621,7 +621,7 @@ body {
 }
 .home-a1,
 .merch-a1,
-.speakers11 {
+.speakers10 {
   text-decoration: none;
   position: relative;
   display: inline-block;
@@ -632,12 +632,12 @@ body {
   color: inherit;
 }
 .merch-a1,
-.speakers11 {
+.speakers10 {
   font-weight: 700;
   color: var(--color-red-100);
 }
 .merch-a1:hover,
-.speakers11:hover {
+.speakers10:hover {
   color: var(--color-red-100);
   animation: 0.3s ease 0s 1 normal none scale-up;
   opacity: 1;
@@ -662,10 +662,10 @@ body {
   color: var(--color-gray-300);
 }
 .merch-a1:hover,
-.speakers-div2 {
+.speakers-div1 {
   font-family: var(--font-public-sans);
 }
-.speakers-div2 {
+.speakers-div1 {
   position: relative;
   background-color: var(--color-white);
   width: 100%;
@@ -676,8 +676,8 @@ body {
   color: var(--color-gray-500);
 }
 @media screen and (max-width: 1200px) {
-  .frame-button32:hover,
-  .frame-button33:hover {
+  .frame-button31:hover,
+  .frame-button32:hover {
     animation: 1s ease 0s infinite normal none scale-up;
     opacity: 1;
   }

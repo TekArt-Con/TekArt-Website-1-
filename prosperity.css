@@ -41,8 +41,8 @@ body {
   height: 631px;
   overflow: hidden;
 }
-.rectangle-icon22,
-.rectangle-icon23 {
+.rectangle-icon23,
+.rectangle-icon24 {
   position: absolute;
   top: 161px;
   left: 647px;
@@ -50,7 +50,7 @@ body {
   height: 114px;
   object-fit: cover;
 }
-.rectangle-icon23 {
+.rectangle-icon24 {
   top: 36px;
   left: 28px;
   width: 250px;
@@ -172,14 +172,14 @@ body {
   left: 0;
 }
 .footer-icons-div10,
-.rectangle-div81 {
+.rectangle-div80 {
   position: absolute;
   top: 833px;
   left: 88px;
   width: 244px;
   height: 34.9px;
 }
-.rectangle-div81 {
+.rectangle-div80 {
   top: 0;
   left: 0;
   background-color: var(--color-red-100);
@@ -319,7 +319,7 @@ body {
 }
 .our-agenda11,
 .register-a11,
-.speakers16 {
+.speakers15 {
   text-decoration: none;
   color: inherit;
   display: none;
@@ -335,10 +335,10 @@ body {
   cursor: pointer;
 }
 .register-a11,
-.speakers16 {
+.speakers15 {
   top: 263px;
 }
-.speakers16 {
+.speakers15 {
   position: absolute;
   left: 797px;
   line-height: 30px;
@@ -489,7 +489,7 @@ body {
 }
 .home-a4,
 .merch-a4,
-.speakers17 {
+.speakers16 {
   text-decoration: none;
   position: relative;
   display: inline-block;
@@ -500,12 +500,12 @@ body {
   color: inherit;
 }
 .merch-a4,
-.speakers17 {
+.speakers16 {
   font-weight: 700;
   color: var(--color-red-100);
 }
 .merch-a4:hover,
-.speakers17:hover {
+.speakers16:hover {
   color: var(--color-red-100);
   animation: 0.3s ease 0s 1 normal none scale-up;
   opacity: 1;
@@ -579,8 +579,7 @@ body {
 .frame-button66:hover,
 .frame-button67:hover,
 .frame-button68:hover,
-.frame-button69:hover,
-.frame-button70:hover {
+.frame-button69:hover {
   animation: 1s ease 0s 1 normal none scale-up;
   opacity: 1;
 }
@@ -668,8 +667,7 @@ body {
 .frame-button65,
 .frame-button66,
 .frame-button67,
-.frame-button68,
-.frame-button69 {
+.frame-button68 {
   background-color: var(--color-white);
   position: absolute;
   border-radius: var(--br-xl);
@@ -691,8 +689,7 @@ body {
 .frame-button65,
 .frame-button66,
 .frame-button67,
-.frame-button68,
-.frame-button69 {
+.frame-button68 {
   cursor: pointer;
   border: 0;
   padding: 0;
@@ -704,8 +701,7 @@ body {
 .frame-button65,
 .frame-button66,
 .frame-button67,
-.frame-button68,
-.frame-button69 {
+.frame-button68 {
   top: 1042px;
   left: 0;
 }
@@ -713,36 +709,28 @@ body {
 .frame-button65,
 .frame-button66,
 .frame-button67,
-.frame-button68,
-.frame-button69 {
+.frame-button68 {
   top: 0;
   left: 395px;
 }
 .frame-button65,
 .frame-button66,
 .frame-button67,
-.frame-button68,
-.frame-button69 {
+.frame-button68 {
   top: 515px;
-  left: 394px;
+  left: 774px;
 }
 .frame-button66,
 .frame-button67,
-.frame-button68,
-.frame-button69 {
-  left: 774px;
-}
-.frame-button67,
-.frame-button68,
-.frame-button69 {
+.frame-button68 {
   top: 1033px;
 }
-.frame-button68,
-.frame-button69 {
+.frame-button67,
+.frame-button68 {
   top: 0;
   left: 5px;
 }
-.frame-button69 {
+.frame-button68 {
   top: 1030px;
   left: 394px;
 }
@@ -755,7 +743,7 @@ body {
   font-size: var(--font-size-4xl);
   color: var(--color-gray-600);
 }
-.frame-button70 {
+.frame-button69 {
   cursor: pointer;
   border: 0;
   padding: 0;
@@ -803,8 +791,8 @@ body {
   font-family: var(--font-public-sans);
 }
 @media screen and (max-width: 1200px) {
-  .frame-button68:hover,
-  .frame-button70:hover {
+  .frame-button67:hover,
+  .frame-button69:hover {
     animation: 1s ease 0s infinite normal none scale-up;
     opacity: 1;
   }

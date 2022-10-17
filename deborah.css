@@ -68,8 +68,8 @@ body {
   height: 631px;
   overflow: hidden;
 }
-.rectangle-icon20,
-.rectangle-icon21 {
+.rectangle-icon21,
+.rectangle-icon22 {
   position: absolute;
   top: 161px;
   left: 647px;
@@ -77,7 +77,7 @@ body {
   height: 114px;
   object-fit: cover;
 }
-.rectangle-icon21 {
+.rectangle-icon22 {
   top: 36px;
   left: 28px;
   width: 250px;
@@ -235,14 +235,14 @@ body {
   left: 0;
 }
 .footer-icons-div8,
-.rectangle-div80 {
+.rectangle-div79 {
   position: absolute;
   top: 743px;
   left: 95px;
   width: 244px;
   height: 34.9px;
 }
-.rectangle-div80 {
+.rectangle-div79 {
   top: 0;
   left: 0;
   background-color: var(--color-red-100);
@@ -382,7 +382,7 @@ body {
 }
 .our-agenda10,
 .register-a10,
-.speakers14 {
+.speakers13 {
   text-decoration: none;
   color: inherit;
   display: none;
@@ -398,10 +398,10 @@ body {
   cursor: pointer;
 }
 .register-a10,
-.speakers14 {
+.speakers13 {
   top: 263px;
 }
-.speakers14 {
+.speakers13 {
   position: absolute;
   left: 797px;
   line-height: 30px;
@@ -530,7 +530,7 @@ body {
 }
 .home-a3,
 .merch-a3,
-.speakers15 {
+.speakers14 {
   text-decoration: none;
   position: relative;
   display: inline-block;
@@ -541,12 +541,12 @@ body {
   color: inherit;
 }
 .merch-a3,
-.speakers15 {
+.speakers14 {
   font-weight: 700;
   color: var(--color-red-100);
 }
 .merch-a3:hover,
-.speakers15:hover {
+.speakers14:hover {
   color: var(--color-red-100);
   animation: 0.3s ease 0s 1 normal none scale-up;
   opacity: 1;
@@ -798,7 +798,7 @@ body {
   justify-content: flex-start;
   gap: var(--gap-sm);
 }
-.deborah-div1,
+.deborah-div,
 .frame-button57,
 .frame-button58 {
   background-color: var(--color-white);
@@ -821,7 +821,7 @@ body {
   animation: 1s ease 0s infinite normal none scale-up;
   opacity: 1;
 }
-.deborah-div1 {
+.deborah-div {
   position: relative;
   width: 100%;
   height: 6041px;

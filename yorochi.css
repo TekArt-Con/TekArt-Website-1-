@@ -19,7 +19,7 @@ body {
   bottom: 0;
   right: 0;
 }
-.david-iyenyorochi-obi89 {
+.david-iyenyorochi-obi88 {
   position: absolute;
   top: 247px;
   left: 73px;
@@ -32,7 +32,7 @@ body {
   height: 72px;
   -webkit-text-stroke: 1px #000;
 }
-.frame-icon106 {
+.frame-icon105 {
   position: absolute;
   top: 205px;
   left: 763px;
@@ -41,8 +41,8 @@ body {
   height: 631px;
   overflow: hidden;
 }
-.rectangle-icon24,
-.rectangle-icon25 {
+.rectangle-icon25,
+.rectangle-icon26 {
   position: absolute;
   top: 161px;
   left: 647px;
@@ -50,7 +50,7 @@ body {
   height: 114px;
   object-fit: cover;
 }
-.rectangle-icon25 {
+.rectangle-icon26 {
   top: 36px;
   left: 28px;
   width: 250px;
@@ -66,7 +66,7 @@ body {
   text-align: center;
   display: inline-block;
 }
-.frame-button71 {
+.frame-button70 {
   cursor: pointer;
   border: 0;
   padding: 0;
@@ -208,14 +208,14 @@ body {
   left: 0;
 }
 .footer-icons-div12,
-.rectangle-div82 {
+.rectangle-div81 {
   position: absolute;
   top: 690px;
   left: 91px;
   width: 244px;
   height: 34.9px;
 }
-.rectangle-div82 {
+.rectangle-div81 {
   top: 0;
   left: 0;
   background-color: var(--color-red-100);
@@ -240,7 +240,7 @@ body {
   height: 75px;
   -webkit-text-stroke: 1px #fff;
 }
-.frame-icon107,
+.frame-icon106,
 .section-3-div5 {
   position: absolute;
   overflow: hidden;
@@ -254,26 +254,26 @@ body {
   font-size: var(--font-size-10xl);
   color: var(--color-white);
 }
-.frame-icon107 {
+.frame-icon106 {
   top: 0;
   left: 0;
   border-radius: var(--br-lg);
   width: 368px;
   height: 384px;
 }
-.community-influencer-div88,
-.david-iyenyorochi-obi90 {
+.community-influencer-div87,
+.david-iyenyorochi-obi89 {
   position: absolute;
   left: 0;
   font-weight: 500;
   display: inline-block;
 }
-.community-influencer-div88 {
+.community-influencer-div87 {
   top: 450px;
   width: 289px;
   height: 23px;
 }
-.david-iyenyorochi-obi90 {
+.david-iyenyorochi-obi89 {
   top: 409px;
   font-size: var(--font-size-4xl);
   color: var(--color-gray-600);
@@ -355,7 +355,7 @@ body {
 }
 .our-agenda12,
 .register-a12,
-.speakers18 {
+.speakers17 {
   text-decoration: none;
   color: inherit;
   display: none;
@@ -371,10 +371,10 @@ body {
   cursor: pointer;
 }
 .register-a12,
-.speakers18 {
+.speakers17 {
   top: 263px;
 }
-.speakers18 {
+.speakers17 {
   position: absolute;
   left: 797px;
   line-height: 30px;
@@ -503,7 +503,7 @@ body {
 }
 .home-a5,
 .merch-a5,
-.speakers19 {
+.speakers18 {
   text-decoration: none;
   position: relative;
   display: inline-block;
@@ -514,12 +514,12 @@ body {
   color: inherit;
 }
 .merch-a5,
-.speakers19 {
+.speakers18 {
   font-weight: 700;
   color: var(--color-red-100);
 }
 .merch-a5:hover,
-.speakers19:hover {
+.speakers18:hover {
   color: var(--color-red-100);
   animation: 0.3s ease 0s 1 normal none scale-up;
   opacity: 1;
@@ -544,7 +544,7 @@ body {
   text-align: center;
   color: var(--color-gray-300);
 }
-.frame-icon111 {
+.frame-icon110 {
   position: relative;
   border-radius: var(--br-lg);
   width: 368px;
@@ -552,16 +552,16 @@ body {
   flex-shrink: 0;
   overflow: hidden;
 }
-.community-influencer-div89,
-.david-iyenyorochi-obi91 {
+.community-influencer-div88,
+.david-iyenyorochi-obi90 {
   position: relative;
   font-weight: 500;
   display: inline-block;
 }
-.david-iyenyorochi-obi91 {
+.david-iyenyorochi-obi90 {
   -webkit-text-stroke: 0.3px #393939;
 }
-.community-influencer-div89 {
+.community-influencer-div88 {
   font-size: var(--font-size-base);
   color: var(--color-gray-500);
   width: 289px;
@@ -584,37 +584,36 @@ body {
 }
 .frame-a10:hover,
 .frame-a11:hover,
+.frame-button71:hover,
 .frame-button72:hover,
 .frame-button73:hover,
 .frame-button74:hover,
 .frame-button75:hover,
-.frame-button76:hover,
-.frame-button77:hover,
-.frame-button78:hover {
+.frame-button76:hover {
   animation: 1s ease 0s 1 normal none scale-up;
   opacity: 1;
 }
-.community-influencer-div90,
-.david-iyenyorochi-obi92 {
+.community-influencer-div89,
+.david-iyenyorochi-obi91 {
   position: relative;
   font-weight: 500;
   font-family: var(--font-public-sans);
   text-align: left;
   display: inline-block;
 }
-.david-iyenyorochi-obi92 {
+.david-iyenyorochi-obi91 {
   font-size: var(--font-size-4xl);
   color: var(--color-gray-600);
   -webkit-text-stroke: 0.3px #393939;
 }
-.community-influencer-div90 {
+.community-influencer-div89 {
   font-size: var(--font-size-base);
   color: var(--color-gray-500);
   width: 289px;
   height: 23px;
   flex-shrink: 0;
 }
-.frame-button72,
+.frame-button71,
 .frame-div26,
 .frame-div27 {
   position: absolute;
@@ -626,7 +625,7 @@ body {
   justify-content: flex-start;
   gap: var(--gap-sm);
 }
-.frame-button72 {
+.frame-button71 {
   cursor: pointer;
   border: 0;
   padding: 0;
@@ -642,7 +641,7 @@ body {
   top: 2943px;
   left: 772px;
 }
-.frame-icon115 {
+.frame-icon114 {
   position: absolute;
   top: 3465px;
   left: 0;
@@ -663,7 +662,7 @@ body {
   justify-content: flex-start;
   gap: var(--gap-sm);
 }
-.frame-button73 {
+.frame-button72 {
   cursor: pointer;
   border: 0;
   padding: 0;
@@ -671,15 +670,14 @@ body {
   left: 394px;
 }
 .frame-a11,
+.frame-button72,
 .frame-button73,
 .frame-button74,
 .frame-button75,
 .frame-button76,
 .frame-button77,
 .frame-button78,
-.frame-button79,
-.frame-button80,
-.frame-button81 {
+.frame-button79 {
   background-color: var(--color-white);
   position: absolute;
   border-radius: var(--br-xl);
@@ -695,73 +693,64 @@ body {
   left: 774px;
   color: inherit;
 }
+.frame-button73,
 .frame-button74,
 .frame-button75,
 .frame-button76,
 .frame-button77,
 .frame-button78,
-.frame-button79,
-.frame-button80,
-.frame-button81 {
+.frame-button79 {
   cursor: pointer;
   border: 0;
   padding: 0;
   top: 2952px;
   left: 2px;
 }
+.frame-button74,
 .frame-button75,
 .frame-button76,
 .frame-button77,
 .frame-button78,
-.frame-button79,
-.frame-button80,
-.frame-button81 {
+.frame-button79 {
   top: 1042px;
   left: 0;
+}
+.frame-button75,
+.frame-button76,
+.frame-button77,
+.frame-button78,
+.frame-button79 {
+  top: 0;
+  left: 395px;
 }
 .frame-button76,
 .frame-button77,
 .frame-button78,
-.frame-button79,
-.frame-button80,
-.frame-button81 {
-  top: 0;
-  left: 395px;
+.frame-button79 {
+  top: 515px;
+  left: 774px;
 }
 .frame-button77,
 .frame-button78,
-.frame-button79,
-.frame-button80,
-.frame-button81 {
-  top: 515px;
-  left: 394px;
-}
-.frame-button78,
-.frame-button79,
-.frame-button80,
-.frame-button81 {
-  left: 774px;
-}
-.frame-button79,
-.frame-button80,
-.frame-button81 {
+.frame-button79 {
   top: 0;
 }
-.frame-button79:hover {
+.frame-button77:hover {
   animation: 1s ease 0s infinite normal none scale-up;
   opacity: 1;
 }
-.frame-button80,
-.frame-button81 {
+.frame-button78,
+.frame-button79 {
   top: 1033px;
 }
+.frame-button78:hover,
+.frame-button79:hover,
 .frame-button80:hover,
-.frame-button81:hover,
-.frame-button82:hover {
+.frame-button81:hover {
   animation: 1s ease 0s 1 normal none scale-up;
   opacity: 1;
 }
-.frame-button81 {
+.frame-button79 {
   top: 1030px;
   left: 394px;
 }
@@ -774,17 +763,70 @@ body {
   font-size: var(--font-size-4xl);
   color: var(--color-gray-600);
 }
-.frame-button82,
-.yorochi-div {
+.frame-button80 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
   background-color: var(--color-white);
+  position: absolute;
+  top: 1365px;
+  left: 58px;
+  border-radius: var(--br-xl);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.ellipse-icon50 {
+  position: absolute;
+  top: 466px;
+  left: 210px;
+  width: 317px;
+  height: 317px;
+}
+.a2-icon3,
+.ellipse-icon51,
+.ellipse-icon52 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 317px;
+  height: 297px;
+}
+.a2-icon3,
+.ellipse-icon52 {
+  top: 207px;
+}
+.a2-icon3 {
+  top: 0;
+  width: 748px;
+  height: 748px;
+  object-fit: cover;
 }
 .frame-button82 {
   cursor: pointer;
   border: 0;
   padding: 0;
+  background-color: var(--color-red-100);
+  position: relative;
+  border-radius: var(--br-lg);
+  width: 368px;
+  height: 384px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.frame-button81,
+.yorochi-div {
+  background-color: var(--color-white);
+}
+.frame-button81 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
   position: absolute;
-  top: 1365px;
-  left: 58px;
+  top: 1873px;
+  left: 464px;
   border-radius: var(--br-xl);
   display: flex;
   flex-direction: column;
@@ -803,7 +845,7 @@ body {
   font-family: var(--font-public-sans);
 }
 @media screen and (max-width: 1200px) {
-  .frame-button82:hover {
+  .frame-button80:hover {
     animation: 1s ease 0s infinite normal none scale-up;
     opacity: 1;
   }
