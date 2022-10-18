@@ -234,6 +234,34 @@ body {
 .we-are-giving-you-the-avenue-t.animate {
   animation: 1s ease 0s 1 normal forwards slide-in-top;
 }
+.continue-div2 {
+  position: relative;
+  font-size: var(--font-size-2xs);
+  line-height: 120%;
+  font-weight: 600;
+  font-family: var(--font-public-sans);
+  color: var(--color-red-100);
+  text-align: center;
+  display: inline-block;
+}
+.frame-button2 {
+  cursor: pointer;
+  border: 3px solid var(--color-red-100);
+  padding: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 613px;
+  left: 361px;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+  width: 252px;
+  height: 58px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+}
 .connecting-individuals-with-th {
   margin: 0;
   position: absolute;
@@ -248,36 +276,6 @@ body {
   display: inline-block;
   width: 612px;
   height: 101px;
-  opacity: 0;
-}
-.register-h4 {
-  margin: 0;
-  position: relative;
-  font-size: var(--font-size-2xs);
-  line-height: 120%;
-  font-weight: 600;
-  font-family: var(--font-public-sans);
-  color: var(--color-red-100);
-  text-align: center;
-  display: inline-block;
-}
-.frame-button2 {
-  cursor: pointer;
-  border: 2px solid var(--color-red-100);
-  padding: var(--padding-sm) var(--padding-md);
-  background-color: var(--color-gray-1000);
-  position: absolute;
-  top: 613px;
-  left: 383px;
-  border-radius: var(--br-3xs);
-  box-shadow: 0 20px 60px rgba(61, 95, 221, 0.2);
-  box-sizing: border-box;
-  width: 241px;
-  height: 58px;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
   opacity: 0;
 }
 .rectangle-div1 {
@@ -1808,16 +1806,13 @@ body {
   .home-a {
     display: none;
   }
-  .frame-button1 {
+  .frame-button1,
+  .frame-button2 {
     width: 156px;
     height: 50px;
   }
   .connecting-individuals-with-th {
     display: none;
-  }
-  .frame-button2 {
-    width: 149px;
-    height: 50px;
   }
   .bridging-the-gap-between-the-t {
     font-size: 53px;
