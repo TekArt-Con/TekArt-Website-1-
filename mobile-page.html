@@ -253,7 +253,8 @@
         src="public/group-8644@2x.png"
         data-animate-on-scroll
       />
-      <div class="div2">46 : 06 : 33 : 59</div>
+      <div id="demo" class="div2" data-animate-on-scroll>
+          </div>
       <a class="dashiconsmenu-alt3" id="dashiconsmenuAlt3Link"
         ><img class="vector-icon6" alt="" src="public/vector2.svg"
       /></a>
@@ -340,6 +341,26 @@
           window.location.href = "./mobile-speakers.html";
         });
       }
+      var countDownDate = new Date("Dec 3, 2022, 16:27:35").getTime();
+    
+    var timeFunction = setInterval(function() {
+    var now = new Date().getTime();
+    var distance = countDownDate - now;
+    
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+  
+  document.getElementById("demo").innerHTML = + days + '\xa0' + hours + '\xa0'
+  + minutes + '\xa0' + seconds;
+  
+if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "It's Today";
+  }
+    }, 1000
+    )
       
       var drawerframeButton = document.getElementById("drawerframeButton");
       if (drawerframeButton) {

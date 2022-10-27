@@ -115,7 +115,8 @@ document.location = "mobile-page.html";
       <div class="group-div1">
         <div class="group-div2">
           <h3 class="anticipate-h3">Anticipate</h3>
-          <div class="div" data-animate-on-scroll>47 : 02 : 06 : 00</div>
+          <div id="demo" class="div" data-animate-on-scroll>
+          </div>
           <div class="rectangle-div6"></div>
           <div class="rectangle-div7"></div>
           <button class="rectangle-button"></button>
@@ -624,6 +625,27 @@ document.location = "mobile-page.html";
           window.location.href = "./prosperity.html";
         });
       }
+      
+       var countDownDate = new Date("Dec 3, 2022, 16:27:35").getTime();
+    
+    var timeFunction = setInterval(function() {
+    var now = new Date().getTime();
+    var distance = countDownDate - now;
+    
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+  
+  document.getElementById("demo").innerHTML = + days + '\xa0' + hours + '\xa0'
+  + minutes + '\xa0' + seconds;
+  
+if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "It's Today";
+  }
+    }, 1000
+    )
       
       var frameButton12 = document.getElementById("frameButton12");
       if (frameButton12) {
