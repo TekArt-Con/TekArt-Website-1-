@@ -19,11 +19,9 @@
     />
     
     <script type="text/javascript">
-<!--
-if (screen.width <= 699) {
+if (screen.width >= 600) {
 document.location = "mobile-page.html";
 }
-//-->
 </script>
     
   </head>
@@ -55,11 +53,11 @@ document.location = "mobile-page.html";
         ><a class="merch-a" id="merchLink">About Us</a>
       </div>
       <button class="frame-button" id="frameButton">
-        <div class="continue-div">Buy Merch</div></button
-      ><button
+        <div class="continue-div">Buy Merch</div></button>
+<button
         class="frame-button1"
         data-scroll-to="frameButton"
-        id="frameButton"
+        id="frameButton-Reg"
         data-animate-on-scroll
       >
         <div class="register-div">Register now</div></button
@@ -520,7 +518,7 @@ document.location = "mobile-page.html";
         });
       }
       
-      var frameButton = document.getElementById("frameButton");
+      var frameButton = document.getElementById("frameButton-Reg");
       if (frameButton) {
         frameButton.addEventListener("click", function () {
           window.location.href = "https://eventprime.co/e/tekart-con-2022";
