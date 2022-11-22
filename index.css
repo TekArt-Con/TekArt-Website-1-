@@ -1213,16 +1213,6 @@ body {
 .group-button2.animate {
   animation: 1s ease 0s 1 normal forwards scale-up;
 }
-  border: 0;
-  padding: 0;
-  background-color: transparent;
-  position: absolute;
-  top: 438px;
-  left: 593px;
-  width: 349px;
-  height: 61px;
-  opacity: 1;
-}
 
 .section-2-a {
   text-decoration: none;
