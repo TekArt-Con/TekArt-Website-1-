@@ -1213,19 +1213,6 @@ body {
 .group-button2.animate {
   animation: 1s ease 0s 1 normal forwards scale-up;
 }
-.download-event-programme {
-  position: absolute;
-  top: 17px;
-  left: 26px;
-  font-size: var(--font-size-xl);
-  font-weight: 500;
-  font-family: var(--font-public-sans);
-  color: var(--color-red-100);
-  text-align: left;
-  display: inline-block;
-}
-.group-buttonp {
-  cursor: pointer;
   border: 0;
   padding: 0;
   background-color: transparent;
@@ -1236,9 +1223,7 @@ body {
   height: 61px;
   opacity: 1;
 }
-.group-buttonp.animate {
-  animation: 1s ease 0s 1 normal forwards scale-up;
-}
+
 .section-2-a {
   text-decoration: none;
   position: absolute;
