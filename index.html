@@ -266,6 +266,12 @@ document.location = "mobile-page.html";
           <div class="download-event-brochure">Download Event Brochure</div>
         </button></a
       >
+      <button class="group-buttonp" id="groupButtonp" data-animate-on-scroll>
+          <div class="rectangle-div17"></div>
+          <div class="download-event-programme">Download Event programme</div>
+        </button></a
+      >
+      
       <div class="group-div6">
         <a class="frame-a"
           ><img class="frame-icon1" alt="" src="public/frame-18.svg" />
@@ -610,6 +616,15 @@ document.location = "mobile-page.html";
             "https://drive.google.com/file/d/1TypT90aOt0FupB7HZ4ayKLwDlWH7eiQk/view?usp=sharing";
         });
       }
+      
+      var groupButtonp = document.getElementById("groupButtonp");
+      if (groupButtonp) {
+        groupButtonp.addEventListener("click", function () {
+          window.location.href =
+            "https://docs.google.com/document/d/1A_cQwTvyTITuscT5dgvBNSgzKNG7W6hn/edit?usp=share_link&ouid=112893732075963171688&rtpof=true&sd=true";
+        });
+      }
+      
       
       var frameButton9 = document.getElementById("frameButton9");
       if (frameButton9) {
